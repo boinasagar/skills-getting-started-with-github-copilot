@@ -1,7 +1,6 @@
 """
 Tests for data validation and edge cases.
 """
-import pytest
 from fastapi.testclient import TestClient
 from urllib.parse import quote
 
